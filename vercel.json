@@ -1,0 +1,8 @@
+{
+    "functions": {
+      "vercel_function.py": {
+        "runtime": "python3.8"
+      }
+    }
+  }
+  
