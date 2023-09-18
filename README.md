@@ -8,10 +8,10 @@ This project leverages YOLOv8, OpenCV, and Flask to deliver a robust damage dete
 
 🌟 **Key Features**
 ---------------------
-✅ **Advanced Detection**: Our custom YOLOv8-based model ensures highly accurate damage detection.
-📷 **Image Upload**: Simply upload an image, and the system will do the rest.
-⚙️ **Severity Assessment**: The system not only detects damage but also assesses its severity.
-🌐 **Full-Stack Web App**: Accessible via a user-friendly web interface powered by Flask.
+✅ **Advanced Detection**: Our custom YOLOv8-based model ensures highly accurate damage detection.  
+📷 **Image Upload**: Simply upload an image, and the system will do the rest.  
+⚙️ **Severity Assessment**: The system not only detects damage but also assesses its severity.  
+🌐 **Full-Stack Web App**: Accessible via a user-friendly web interface powered by Flask.  
 📈 **Reliable Results**: Trust in the accuracy and reliability of the analysis.
 
 🔧 **Getting Started**
