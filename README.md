@@ -26,8 +26,7 @@ Ready to deploy this project? Consider using platforms like Vercel or PythonAnyw
 
 💡 **Additional Information**
 ------------------------------
-- For detailed instructions and code samples, check out our [wiki](link to your wiki or documentation).
-- Need help or want to contribute? We'd love to hear from you! Open an [issue](link to your issues) or submit a [pull request](link to your pull requests).
+- Need help or want to contribute? We'd love to hear from you! Open an [issue](https://github.com/ec-026/Deep-Object-Damage-Analysis/issues) or submit a [pull request](https://github.com/ec-026/Deep-Object-Damage-Analysis/pulls).
 
 📌 **Important Note**
 -------------------------
@@ -35,6 +34,6 @@ Please ensure you have the necessary permissions to access and use the tools and
 
 🌐 **Visit the Website**
 ---------------------------
-Explore the project in action at [Your Website URL](link to your deployed website)!
+Explore the project in action at [Website](http://notnormalcoder123.pythonanywhere.com/)!
 
 Happy Detecting! 📸✨
