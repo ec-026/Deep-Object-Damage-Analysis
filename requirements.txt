@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 argparse
 pillow
 torch
@@ -9,4 +10,17 @@ werkzeug
 requests
 ultralytics==8.0.55
 scikit-image
+=======
+argparse
+pillow
+torch
+opencv-python-headless
+numpy
+tensorflow
+flask
+werkzeug
+requests
+ultralytics==8.0.55
+scikit-image
+>>>>>>> origin/master
 scikit-learn

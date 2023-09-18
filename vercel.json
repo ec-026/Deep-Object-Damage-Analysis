@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "functions": {
       "vercel_function.py": {
         "runtime": "python3.8"
@@ -6,3 +7,19 @@
     }
   }
   
+=======
+  "version": 2,
+  "builds": [
+    {
+      "src": "webapp.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "webapp.py"
+    }
+  ]
+}
+>>>>>>> origin/master
