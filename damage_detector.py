@@ -9,10 +9,6 @@ class DamageDetector:
         self.distance = [1]
         self.angle = [0]
         self.reg = DecisionTreeRegressor()
-<<<<<<< HEAD
-=======
-        # assuming you have your training data in a pandas DataFrame called 'df'
->>>>>>> origin/master
         # with columns 'Contrast', 'Correlation', 'Energy', 'Homogeneity', and 'Severity'
         X = [[22.152499372917195, 0.9948180354786471, 0.04012856769422608,
               0.47550734466605193], [59.60232353339657, 0.9743965930957489,
