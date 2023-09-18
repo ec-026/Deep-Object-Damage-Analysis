@@ -29,18 +29,6 @@ Ready to deploy this project? Consider using platforms like Vercel or PythonAnyw
 - For detailed instructions and code samples, check out our [wiki](link to your wiki or documentation).
 - Need help or want to contribute? We'd love to hear from you! Open an [issue](link to your issues) or submit a [pull request](link to your pull requests).
 
-📣 **Join the Community**
----------------------------
-Connect with fellow developers, share your success stories, and stay up-to-date with project updates on our [Discord](link to your Discord or community page).
-
-🙌 **Contributors**
-----------------------
-A big shoutout to our amazing contributors who have made this project possible.
-
-📝 **License**
------------------
-This project is licensed under the [MIT License](link to your license file). Feel free to fork and build upon it.
-
 📌 **Important Note**
 -------------------------
 Please ensure you have the necessary permissions to access and use the tools and libraries included in this project.
