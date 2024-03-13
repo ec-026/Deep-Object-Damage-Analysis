@@ -16,7 +16,7 @@ This project leverages YOLOv8, OpenCV, and Flask to deliver a robust damage dete
 
 🔧 **Getting Started**
 ------------------------
-1. Clone this repository to your local machine.
+1. Clone this repo to your local machine.
 2. Install the necessary dependencies using `pip install -r requirements.txt`.
 3. Run the Flask app with `python webapp.py`.
 
